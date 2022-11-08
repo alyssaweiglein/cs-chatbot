@@ -1,6 +1,6 @@
 # CS Chatbot
 <p align="center">
-  <img src="cs-chatbot.gif" height: 60%; />
+  <img src="cs-chatbot.gif" style="height: 60%;" />
 </p>
 A human-response simulation that gives career advice to students who are graduating with a computer science degree.
 
